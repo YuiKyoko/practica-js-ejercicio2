@@ -8,9 +8,9 @@
 
 3.ingresa numero 2
 
-4. ingresa numero 3
+4.ingresa numero 3
 
-5. sumar numero 1,2,3 
+5.sumar numero 1,2,3 
 
 6.dividir resultado de la suma
 
